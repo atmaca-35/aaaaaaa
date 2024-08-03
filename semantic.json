@@ -1,0 +1,22 @@
+{
+  "o": {
+    "type": "pronoun",
+    "description": "he, she, it.<br> —o \n —Old </i> ol\n— Proto</i> *ol “demonstrative adjective and third person singular pronoun”"
+  },
+  "ağrı": {
+    "type": "adjective",
+    "description": "pain, ache.\n—Ottoman</i> أغری\n— <i class='purple'>Middle</i> ağrı\n— <i class='purple'>Old</i> ağrığ\n— Proto</i> *ağrığ\n— <i class='purple'>Proto</i> *ağrı- *+(U)ğ\n— <i class='purple'>Proto</i> ağrı-\n— <i class='purple'>Proto</i> *ağrı-\nIt is common for the U vowel that gets stuck in between to disappear.\n— <i class='purple'>Proto</i> *ağıźı-\n— <i class='purple'>Proto</i> *ağıźı +I-\n— <i class='purple'>Proto</i> *ağıźı “mouth; feeding and vocal organ”\n— <i class='purple'>Proto</i> *ağ- *+(U)ź\n— <i class='purple'>Proto</i> *ağ-"
+  },
+  "uymak": {
+    "type": "verb",
+    "description": "(intransitive) to follow, to go with.\n\n— <i class='purple'>Middle</i> uy-\nStandard /ḏ/ → /y/ transformation.\n— <i class='purple'>Old</i> uγ-\n— <i class='purple'>Proto</i> *uγ- “to follow”"
+  },
+  "+(U)z": {
+    "type": "suffix",
+    "description": "As observed in the word “ikiz”, it derives plural nouns by attaching to the noun. It is extremely rare. Perhaps, among the words it derives too are “biz” and “siz”.\n\n<b class='green'>II.</b> A suffix left over from primitive times that functions to produce nouns from verbs. It has lost its functionality today."
+  },
+  "iz": {
+    "type": "noun",
+    "description": "footmark, scar.\n— <i class='purple'>Old</i> iz\nStandard /ɨ/ → /z/ transformation.\n— <i class='purple'>Proto</i> *iɨ “footprint”\n— <i class='purple'>Proto</i> *i- *+(U)ɨ \n— <i class='purple'>Proto</i> *i-\nStandard /ğ/ → /∅/ transformation.\n— <i class='purple'>Proto</i> *iğ- “to walk”"
+  }
+}
