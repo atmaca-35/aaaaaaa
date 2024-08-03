@@ -1,4 +1,4 @@
-/* Genel Stil Ayarları */
+/* Genel Stil AyarlarÃ½ */
 * {
   margin: 0;
   padding: 0;
@@ -15,11 +15,11 @@ body {
   font-family: 'Arial', sans-serif;
   line-height: 1.6;
   transition: background-color 0.3s, color 0.3s;
-  overflow: hidden; /* Scroll olmasını engelle */
+  overflow: hidden; /* Scroll olmasÃ½nÃ½ engelle */
   padding-top: 10px;
 }
 
-/* Ana İçerik */
+/* Ana ÃÃ§erik */
 main {
   padding: 20px 0;
   min-height: 100vh;
@@ -36,7 +36,7 @@ main {
 
 /* Arama Kutusu */
 .search-box {
-  position: relative; /* Hayalet metni input ile aynı konuma getirebilmek için */
+  position: relative; /* Hayalet metni input ile aynÃ½ konuma getirebilmek iÃ§in */
   display: flex;
   align-items: center;
   background-color: #1f1f1f;
@@ -69,7 +69,7 @@ main {
 /* Hayalet Metin Stilleri */
 .ghost-text {
   position: absolute;
-  color: #32CD32; /* Parlak yeşil renk */
+  color: #32CD32; /* Parlak yeÃ¾il renk */
   font-family: 'Arial', sans-serif;
   font-size: 1.2rem;
   pointer-events: none;
@@ -78,7 +78,7 @@ main {
   transform: translateY(-50%);
 }
 
-/* Sonuç Alanı */
+/* SonuÃ§ AlanÃ½ */
 .result {
   text-align: left;
   margin-top: 40px; 
@@ -94,29 +94,29 @@ main {
 
 .result .highlight {
   font-weight: bold;
-  color: #d9534f;
+  color: #2d6536;
 }
 
-/* Kelime Sayısı Bilgisi */
+/* Kelime SayÃ½sÃ½ Bilgisi */
 .word-count {
   color: #5C5F60;
   font-size: 1rem;
   margin-bottom: 10px;
-  text-align: center; /* Mesajı ortala */
+  text-align: center; /* MesajÃ½ ortala */
 }
 
 .word-count .highlight {
-  font-weight: bold; /* x kısmını kalın yap */
+  font-weight: bold; /* x kÃ½smÃ½nÃ½ kalÃ½n yap */
 }
 
 .special-highlight {
-    color: #d9534f; /* Yeşil renk */
-    font-style: italic; /* İtalik stil */
-    font-weight: bold; /* Kalın stil */
+    color: #d9534f; /* YeÃ¾il renk */
+    font-style: italic; /* Ãtalik stil */
+    font-weight: bold; /* KalÃ½n stil */
 }
 
 
-/* Ekran Boyutuna Göre Duyarlılık (Responsive) */
+/* Ekran Boyutuna GÃ¶re DuyarlÃ½lÃ½k (Responsive) */
 @media (max-width: 768px) {
   .container {
     width: 95%;
@@ -140,9 +140,9 @@ main {
 }
 
 .search-box.error {
-  box-shadow: 0 0 15px 5px rgba(220, 53, 69, 0.8); /* Kırmızı renkte gölge */
+  box-shadow: 0 0 15px 5px rgba(220, 53, 69, 0.8); /* KÃ½rmÃ½zÃ½ renkte gÃ¶lge */
 }
 
 .search-box.error input {
-  caret-color: #dc3545; /* Kırmızı imleç rengi */
+  caret-color: #dc3545; /* KÃ½rmÃ½zÃ½ imleÃ§ rengi */
 }
